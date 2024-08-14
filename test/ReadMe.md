@@ -13,7 +13,7 @@ This repository contains resources developed as part of the CCIP Bootcamp. These
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/smartcontractkit/ccip-cross-chain-name-service
+   git clone https://github.com/UdaySingh131105/ccip-cross-chain-name-service.git
    ```
 
 2. **Change Directory**:
